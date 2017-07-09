@@ -4,6 +4,8 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
+cifar-10-batches-py/
+cifar-10-python.tar.gz
 
 .ipynb_checkpoints/
 
@@ -13,4 +15,3 @@ face_generation/data/
 *.pkl 
 
 */.floyd*
-
