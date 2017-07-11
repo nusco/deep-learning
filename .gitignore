@@ -9,6 +9,8 @@ cifar-10-python.tar.gz
 
 .ipynb_checkpoints/
 
+transfer-learning/codes
+transfer-learning/labels
 
 *.pyc
 *.p
