@@ -3,6 +3,7 @@
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+embeddings/checkpoints/
 face_generation/data/
 cifar-10-batches-py/
 cifar-10-python.tar.gz
